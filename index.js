@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Jugando OCEAN NETWORK"];
+const statusMessages = ["Jugando a OCEAN NETWORK"];
 
 
 let currentIndex = 0;
